@@ -1,0 +1,20 @@
+body{
+    background-color:aquamarine;
+}
+
+.tabla{
+    color: white;
+    background-color: black;
+    border-color: red;
+    text-align: center;
+}
+
+.colorcelda{
+    background-color: yellow;
+    color: black;
+}
+
+.color{
+    background-color: white;
+    color: red;
+}
